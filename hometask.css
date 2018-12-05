@@ -1,0 +1,72 @@
+#container{
+    box-sizing: border-box;
+    height: 700px;
+    width: 700px;
+    border: 2px solid black;
+}
+
+#header{
+    box-sizing: border-box;
+    height:100px ;
+    width: 700px;
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    background: burlywood;
+    
+}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#content{
+    box-sizing: border-box;
+    height: 500px;
+    width: 700px;
+    border: 2px solid black;
+}
+#footer{
+    box-sizing: border-box;
+height: 100px;
+width: 700px;
+background: burlywood;
+border: 2px solid black;
+padding: 20px;
+
+
+}
+#sol{
+    box-sizing: border-box;
+    float: left;
+    border:2px solid black;
+    width: 20%;
+    height: 100%;
+    background: bisque; 
+    
+
+}
+#orta{
+    box-sizing: border-box;
+  float: left;
+  border:2px solid black;
+  width: 60%;
+  height: 100%;
+
+}
+img{
+    float:left;
+    padding: 20px;
+}
+ #sag{
+    box-sizing: border-box;
+  float: left;
+  border:2px solid black;
+  width: 20%;
+  height: 100%;
+  background: bisque ;
+
+
+}
+
